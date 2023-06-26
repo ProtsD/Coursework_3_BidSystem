@@ -1,0 +1,5 @@
+databaseChangeLog:
+  - include:
+      file: liquibase/сhangesets/230626_create_bid.yml
+  - include:
+      file: liquibase/сhangesets/230626_create_lot.yml
